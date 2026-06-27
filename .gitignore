@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Local session state (Claude Code .remember harness)
+.remember/
+
+# Local test scratch
+testing/
+
+# Demo source video (the committed asset is the generated .gif)
+*.mov
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
